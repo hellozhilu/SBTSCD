@@ -8,10 +8,10 @@ Source code for the article "XXX"
    ```
    Among them,  
    ```
-   ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt** //input instance file  
-   147.2                //best-known result for current instance (GKD-b_11_n50_b02_m5.txt)  
-   300                  //parameter in the first hash function $h_1(M)$  
-   400                  //parameter in the second hash function $h_2(M)$  
+   ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt** //input instance file
+   147.2                //best-known result for current instance (GKD-b_11_n50_b02_m5.txt)
+   300                  //parameter in the first hash function $h_1(M)$
+   400                  //parameter in the second hash function $h_2(M)$
    500                  //parameter in the third hash function $h_3(M)$
    ```
    If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).  
