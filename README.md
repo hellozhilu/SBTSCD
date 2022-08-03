@@ -11,7 +11,8 @@ Source code for the article "XXX"
    ```
    Among them,  
    ```
-   ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt** //input instance file
+   CDP.exe              //binary code
+   ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt //input instance file
    147.2                //best-known result for current instance (GKD-b_11_n50_b02_m5.txt)
    300                  //parameter in the first hash function h1(M)
    400                  //parameter in the second hash function h2(M)
