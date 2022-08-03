@@ -1,7 +1,7 @@
 # SBTS
 Source code for the article "XXX"
 
-1. For the source code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under Linux operating system.   
+1. For the source code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under Linux operating system. If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).     
    
    The format of input parameters are listed as follows,     
    ```
@@ -18,12 +18,9 @@ Source code for the article "XXX"
    400                  //parameter in the second hash function h2(M)
    500                  //parameter in the third hash function h3(M)
    ```
-   If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).  
-  
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
    XXX  
-
 
 3. The source code is distributed for academic purposes only.    
    If you wish to use it for commercial applications, please contact the authors (Zhi Lu: zhilusix@gmail.com, Anna Martı́nez-Gavara: gavara@uv.es).  
