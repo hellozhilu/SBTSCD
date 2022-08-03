@@ -3,7 +3,6 @@ Source code for the article "XXX"
 
 1. For the source code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under Linux operating system. If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).     
    
-   The format of input parameters are listed as follows,     
    ```
    g++ ./src/main.cpp ./src/common_func.cpp ./src/local_search.cpp -o ./CDP -O3
    ```
