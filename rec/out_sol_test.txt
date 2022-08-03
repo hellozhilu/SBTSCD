@@ -1,0 +1,80 @@
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
+CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt Num_v = 50 Cap = 4198.000000 |S| = 6 cost = 147.200000 weight = 4247.000000 
+18 23 26 30 45 49 
