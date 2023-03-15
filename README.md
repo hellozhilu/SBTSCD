@@ -1,5 +1,5 @@
 # SBTS
-Source code for the article "XXX"
+Source code for the article "Solution-based tabu search for the capacitated dispersion problem"
 
 1. For the source code, you can specify the parameters to match your needs when you execute the code. The code was tested on a computer under Linux operating system. If you have any questions feel free to contact me (Zhi Lu: zhilusix@gmail.com).     
    
