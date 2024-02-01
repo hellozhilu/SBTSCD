@@ -20,7 +20,7 @@ Source code for the article "Solution-based tabu search for the capacitated disp
    ```
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
-   Z. Lu, A. Martínez-Gavara, J.-K. Hao et al., Solution-based tabu search for the capacitated dispersion problem. Expert Systems With Applications (2023), doi: https://doi.org/10.1016/j.eswa.2023.119856.
+   Lu, Z., Martínez-Gavara, A., Hao, J. K., & Lai, X. (2023). Solution-based tabu search for the capacitated dispersion problem. Expert Systems with Applications, 223, 119856.
 
 3. The source code is distributed for academic purposes only.    
    If you wish to use it for commercial applications, please contact the authors (Zhi Lu: zhilusix@gmail.com, Anna Martı́nez-Gavara: gavara@uv.es).  
