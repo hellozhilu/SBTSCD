@@ -9,7 +9,7 @@ Source code for the article "Solution-based tabu search for the capacitated disp
    ```
    CDP.exe ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt 147.2 300 400 500
    ```
-   Among them,  
+   among them,  
    ```
    CDP.exe              //binary code
    ./CDP_Instances/CDP_Instances_b02/GKD-b_11_n50_b02_m5.txt //input instance file
